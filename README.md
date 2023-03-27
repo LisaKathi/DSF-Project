@@ -8,6 +8,8 @@ In order to predict the individual danger levels, we used three models, a neural
 
 Original data set source: https://www.envidat.ch/dataset/weather-snowpack-danger_ratings-data
 
+Orginial repository at: https://github.com/yasmin-mohamed-sufi/Avi
+
 df_p1 – df_p8 : 2/3 of original data after removing NaNs
 
 df_t1datum and df_t2datum: Grisons subset including the column "datum"
